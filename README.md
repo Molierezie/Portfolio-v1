@@ -1,8 +1,17 @@
-# React + Vite
+# Portfolio Moliere Zie v1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Preview image of my portfolio
 
-Currently, two official plugins are available:
+<img width="1440" alt="PreviwPortfolio" src="https://github.com/user-attachments/assets/b039110d-b420-44e3-9867-9cf97e77d1fe">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Link to access -> [My Portfolio](https://moliere-portfoliov1.netlify.app/)
+# Stack
+
+- React with Vite + tailwind CSS
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+ 
+# Deployment
+
+- Using Netifly
+
